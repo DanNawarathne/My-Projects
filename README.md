@@ -1,2 +1,3 @@
 # My-Projects
 For project based learning....
+Commited to learn coding if anyone has tips or anything I'll be open anytime.
